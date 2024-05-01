@@ -1,0 +1,13 @@
+.link{
+    text-decoration: none;
+}
+.judul{
+    display: flex;
+    justify-content: space-between;
+}
+.card-title{
+    color: crimson;
+}
+.card-text{
+    color: black;
+}
